@@ -1,1 +1,1 @@
-# Yandex_Practicum_Portfolio
+# Yandex_Praktikum_Portfolio
